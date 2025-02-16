@@ -1,0 +1,3 @@
+ui_url = "https://www.chitai-gorod.ru/"
+API_url = "https://web-gate.chitai-gorod.ru/api/v2/"
+token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzkyODY1MDAsImlhdCI6MTczOTExODUwMCwiaXNzIjoiL2FwaS92MS9hdXRoL2Fub255bW91cyIsInN1YiI6ImVlZmQ2ZjU0ODkzMDFjMTUxNGU4YzIwOGVjMDNiZTU3NzMzNTVjNjUyMTMyMjdiZjE3YjllNzNmNTFiY2JiYzYiLCJ0eXBlIjoxMH0.5t3lKBUhuryygZpPvNvz7tvXtA3P4Ii0OCg45dNd4iI"
